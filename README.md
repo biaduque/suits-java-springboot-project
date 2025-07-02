@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2e6eadef-9b8d-4cb0-acde-0f9d2f010a85)
+![image](https://github.com/user-attachments/assets/908f4002-934c-494f-83df-05d04254b712)
 
 # suits-java-springboot-project
  Projeto simples utilizando javaspringboot com finalidade de estudo
